@@ -14,6 +14,7 @@ Kullanılan Teknolojiler:
 -API Entegrasyonu: OpenWeatherMap API'si üzerinden alınan verilerle şehir bazlı hava durumu bilgileri görüntüleniyor.
 -Kullanıcı Bilgilendirmesi: Hatalı giriş veya boş arama durumunda kullanıcıyı bilgilendiren toast bildirimleri kullanıldı.
 
-![Uploading Hava d.PNG…]()
-![Uploading hava d 2.PNG…]()
+![Hava d](https://github.com/user-attachments/assets/0a72e147-722d-4a05-ac74-5d4bfc3cb307)
+![hava d 2](https://github.com/user-attachments/assets/aaf0e9a9-69b1-43f0-8f18-f41524737405)
+
 ![hava d 3](https://github.com/user-attachments/assets/c9d10b77-cc4f-44ba-9db5-ffe663280296)
